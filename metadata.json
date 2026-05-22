@@ -1,0 +1,6 @@
+{
+  "name": "Học Tiếng Anh",
+  "description": "Ứng dụng học tiếng Anh toàn diện với từ vựng, flashcard, bài trắc nghiệm và trợ lý giao tiếp AI thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
